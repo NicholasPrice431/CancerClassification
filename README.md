@@ -33,3 +33,5 @@ This is the final project for COP4630. This project trains and employs a CNN (Re
   ----
 
   Download the 4630_Final_005 .ipynb file. That file should work stand-alone.
+  The model was created using the T4 GPU on colab. This considerably cuts down on training time assuming your system is not better
+
